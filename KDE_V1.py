@@ -59,9 +59,9 @@ except ImportError as exc:
 
 
 PATHS = (
-    "/Users/4c/Desktop/GHQ/data/loto7_4706_k84.csv",
-    "/Users/4c/Desktop/GHQ/data/loto7_4706_k84_loto_2975.csv",
-    "/Users/4c/Desktop/GHQ/data/loto7_4706_k84_loto_plus_1731.csv",
+    "/data/loto7_4706_k84.csv",
+    "/data/loto7_4706_k84_loto_2975.csv",
+    "/data/loto7_4706_k84_loto_plus_1731.csv",
 )
 
 N = 39
@@ -931,7 +931,7 @@ Masa legalnog prostora pre uslovljavanja=3.376853434e-05; zbir marginala=7.00000
 Efektivni broj istorijskih komponenti=1527.67; najveća težina=0.006957; osetljivost marginala=0.0080798993
 DIJAGNOSTIKA: Kombinacija postoji 1 puta u istoriji. KDE može imati maksimum na opaženoj kombinaciji.
 
-NEXT [loto7_4706_k84.csv]: 02 08 12 21 22 34 35
+NEXT [loto7_4706_k84.csv]: 02 x 12 y 22 z 35
 Interna modelska masa=2.07953660156e-07; nije potvrđena verovatnoća budućeg izvlačenja.
 STATUS: maksimum je pronađen; dijagnostika označava rezultat za proveru.
 
@@ -975,7 +975,7 @@ Masa legalnog prostora pre uslovljavanja=3.350667029e-05; zbir marginala=7.00000
 Efektivni broj istorijskih komponenti=1267.79; najveća težina=0.007197; osetljivost marginala=0.01941549
 DIJAGNOSTIKA: Kombinacija postoji 1 puta u istoriji. KDE može imati maksimum na opaženoj kombinaciji.
 
-NEXT [loto7_4706_k84_loto_2975.csv]: 07 08 13 22 31 37 38
+NEXT [loto7_4706_k84_loto_2975.csv]: 07 x 13 y 31 z 38
 Interna modelska masa=2.25521297318e-07; nije potvrđena verovatnoća budućeg izvlačenja.
 STATUS: maksimum je pronađen; dijagnostika označava rezultat za proveru.
 
@@ -1018,7 +1018,7 @@ Masa legalnog prostora pre uslovljavanja=3.308698133e-05; zbir marginala=7.00000
 Efektivni broj istorijskih komponenti=712.86; najveća težina=0.012236; osetljivost marginala=0.021192785
 DIJAGNOSTIKA: Kombinacija postoji 1 puta u istoriji. KDE može imati maksimum na opaženoj kombinaciji.
 
-NEXT [loto7_4706_k84_loto_plus_1731.csv]: 05 09 10 22 24 30 31
+NEXT [loto7_4706_k84_loto_plus_1731.csv]: 05 x 10 y 24 z 31
 Interna modelska masa=3.20287113344e-07; nije potvrđena verovatnoća budućeg izvlačenja.
 STATUS: maksimum je pronađen; dijagnostika označava rezultat za proveru.
 
